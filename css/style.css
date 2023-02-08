@@ -1,0 +1,220 @@
+body {
+    background-color: #ffffff;
+}
+
+
+.title {
+    text-transform: capitalize;
+    text-align: center;
+    color: #FFF;
+    font-size: 40px;
+    color:blue;
+}
+
+
+.line {
+
+    width: 100px;
+    height: 5px;
+    background-color: rgb(255, 251, 251);
+    margin: auto;
+
+}
+.circle {
+
+    width: 100px;
+    height: 100px;
+
+    border-radius: 50px;
+    border: 2px solid #843188;
+
+    margin: auto;
+    color: #843188;
+}
+
+.dolarsign {
+
+    font-size: 30px;
+
+}
+
+.num {
+
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.month {
+
+    text-transform: capitalize;
+}
+
+.p1 {
+    text-transform: capitalize;
+    color: #843188;
+}
+
+.title1{
+    color: #843188;
+}
+.title2{
+    color: #843188;
+}
+
+.title3{
+    color: #843188;
+}
+
+
+.btn1 {
+    width: 150px;
+    height: 50px;
+    background-color:  #843188;
+    color: #FFF;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+}
+
+.parent {
+    width: 1350px;
+    height: 650px;
+    background-color: #843188;
+    margin-top: 30px;
+    float: left;
+    margin-left: 80px;
+    border-radius: 50px;
+
+}
+
+
+.div1 {
+
+    width: 300px;
+    height: 470px;
+    border: 2px solid #203E62;
+    background-color: #FFF;
+    border-radius: 15px;
+    float: left;
+    margin-left: 140px;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.div1 p {
+    margin-top: 35px;
+}
+
+.div1 a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgb(29, 160, 236);
+    margin-top: 50px;
+    display: block;
+}
+
+
+.div2 {
+
+    width: 300px;
+    height: 470px;
+    border: 2px solid #203E62;
+    background-color: #FFF;
+    border-radius: 15px;
+    float: left;
+    margin: 30px 80px;
+    text-align: center;
+
+}
+
+.div2 p {
+    margin-top: 35px;
+}
+
+.div2 a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgb(29, 160, 236);
+    margin-top: 35px;
+    display: block;
+}
+
+
+.div3 {
+
+    width: 300px;
+    height: 470px;
+    border: 2px solid #203E62;
+    background-color: #FFF;
+    border-radius: 15px;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.div3 p {
+    margin-top: 35px;
+}
+
+.div3 a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgb(29, 160, 236);
+    margin-top: 50px;
+    display: block;
+}
+
+
+/* hover */
+
+
+.div1:hover {
+    background-color: #e6d5e7;
+    border-color: #FFF;
+}
+
+.div2:hover {
+
+    background-color:#e6d5e7;
+    border-color: #FFF;
+
+
+}
+
+.div3:hover {
+
+    background-color: #e6d5e7;
+    border-color: #FFF;
+}
+
+.title1:hover {
+
+    color: #FFF;
+}
+
+.title2:hover {
+
+    color: #FFF;
+}
+
+.title3:hover {
+
+    color: #FFF;
+}
+
+
+.p1:hover {
+
+    color: #FFF;
+}
+
+.circle:hover{
+
+    border: 2px solid #fff;
+    color: #fff;
+}
+
